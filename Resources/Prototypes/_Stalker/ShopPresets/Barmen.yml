@@ -349,7 +349,6 @@
         ClothingMaskGasZaryaMono: 150
         ClothingMaskXoma: 95
         ClothingCloakStalker: 100
-        STClothingCapeArmorChainmailSeva: 2000
     - name: shop-category-tools
       priority: 13
       items:
